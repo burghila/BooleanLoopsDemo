@@ -1,0 +1,14 @@
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\bin\Debug\net8.0\BooleanLoopsDemo.exe
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\bin\Debug\net8.0\BooleanLoopsDemo.deps.json
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\bin\Debug\net8.0\BooleanLoopsDemo.runtimeconfig.json
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\bin\Debug\net8.0\BooleanLoopsDemo.dll
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\bin\Debug\net8.0\BooleanLoopsDemo.pdb
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\obj\Debug\net8.0\BooleanLoopsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\obj\Debug\net8.0\BooleanLoopsDemo.AssemblyInfoInputs.cache
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\obj\Debug\net8.0\BooleanLoopsDemo.AssemblyInfo.cs
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\obj\Debug\net8.0\BooleanLoopsDemo.csproj.CoreCompileInputs.cache
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\obj\Debug\net8.0\BooleanLoopsDemo.dll
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\obj\Debug\net8.0\refint\BooleanLoopsDemo.dll
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\obj\Debug\net8.0\BooleanLoopsDemo.pdb
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\obj\Debug\net8.0\BooleanLoopsDemo.genruntimeconfig.cache
+C:\Users\burgh\Desktop\BooleanLoopsDemo\BooleanLoopsDemo\BooleanLoopsDemo\obj\Debug\net8.0\ref\BooleanLoopsDemo.dll
